@@ -1,0 +1,11 @@
+{
+  "name": "snaprender",
+  "version": "1.0.0",
+  "description": "Screenshot and read public web pages from Gemini CLI: desktop and phone captures, full-page images and clean markdown, rendered in a real browser. Hosted SnapRender MCP server with OAuth sign-in.",
+  "mcpServers": {
+    "snaprender": {
+      "httpUrl": "https://app.snap-render.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
